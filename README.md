@@ -1,5 +1,5 @@
 # socks5
-socks5  QQ代理   软路由 RouterOS WinBox 搭建
+http代理、https代理、socks5代理 QQ代理   软路由 RouterOS WinBox 搭建   
 
 <img src="https://github.com/luwenrong/socks5/assets/4485174/cce0e404-e6d3-4a40-b0fc-6666835a8462" width="800" />
 
